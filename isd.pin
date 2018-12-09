@@ -1,0 +1,11 @@
+REFRENSI FROM http://www.cutedigi.com/articles/tutorial-of-isd7100-arduino-shield.html
+
+I HOPE THIS WILL BE HELP YOU TO FIND YOUR ISD MODULE Trouble
+
+Lets Hacking Brother
+
+Arduino Board		MOSI		MISO		SCK		SS (slave)		S (master)
+Uno or Duemilanove	11 or ICSP-4	12 or ICSP-1	13 or ICSP-3	10			-
+Mega1280 or Mega2560	51 or ICSP-4	50 or ICSP-1	52 or ICSP-3	53			-
+Leonardo		ICSP-4		ICSP-1		ICSP-3		-			-
+Due			ICSP-4		ICSP-1		ICSP-3		-			4, 10, 5
